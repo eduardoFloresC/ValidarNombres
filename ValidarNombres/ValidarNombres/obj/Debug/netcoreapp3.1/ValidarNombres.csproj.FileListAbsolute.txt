@@ -1,0 +1,13 @@
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\bin\Debug\netcoreapp3.1\ValidarNombres.exe
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\bin\Debug\netcoreapp3.1\ValidarNombres.deps.json
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\bin\Debug\netcoreapp3.1\ValidarNombres.runtimeconfig.json
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\bin\Debug\netcoreapp3.1\ValidarNombres.runtimeconfig.dev.json
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\bin\Debug\netcoreapp3.1\ValidarNombres.dll
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\bin\Debug\netcoreapp3.1\ValidarNombres.pdb
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.csprojAssemblyReference.cache
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.AssemblyInfoInputs.cache
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.AssemblyInfo.cs
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.dll
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.pdb
+C:\Users\Rubén\source\repos\ValidarNombres\ValidarNombres\obj\Debug\netcoreapp3.1\ValidarNombres.genruntimeconfig.cache
